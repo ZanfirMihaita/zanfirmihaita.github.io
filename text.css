@@ -1,0 +1,146 @@
+.popular{
+
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+
+}
+
+
+a.login{
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    text-align: center;
+}
+.login{
+    
+    border: 1px solid #222222;
+    border-radius: 2rem;
+    background-color: #222222;
+    
+}
+
+:hover.login{
+    background-color:black;
+    border: 1px solid black;
+}
+
+.fab{
+    
+    font-size: 2.5rem;
+    color: white;
+    
+}
+
+
+.p-footer > p{ 
+
+    margin-bottom: 0px;
+    color: white;
+    padding: 0.2rem;
+
+}
+
+.thumbnail-caption{
+    margin: 0 0 1rem 0;
+    padding: 1rem 1rem 1px 1rem;
+    background-color: #222222;
+    font-size: 1.1rem;
+    color: white;
+  }
+
+.thumbnail-caption-big{
+    margin: 0 0 1rem 0;
+    padding: 1rem 1rem 1px 1rem;
+    background-color: #222222;
+    font-size: 1.1rem;
+    color: white;
+}
+
+.thumbnail-caption-small{
+    margin: 0 0 1rem 0;
+    padding: 1rem 1rem 1px 1rem;
+    background-color: #222222;
+    font-size: 1.1rem;
+    color: white;
+}
+
+a.link-caption{
+    text-decoration: none;
+}
+
+span.title{
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.2em; 
+}
+
+a.link  {
+    text-decoration: none;
+    color: #3f7a8c;
+}
+
+a.link:hover  {
+
+    color: #49B2E0;
+}
+@media only screen and (min-width:768px){
+
+    .thumbnail-caption{
+        margin: 0 0 1rem 0;
+        padding: 1rem 1rem 1px 1rem;
+        background-color: #222222;
+        font-size: 1.25rem;
+        color: white;
+      }
+    
+    .thumbnail-caption-big{
+        margin: 0 0 1rem 0;
+        padding: 1rem 1rem 1px 1rem;
+        background-color: #222222;
+        font-size: 1.5rem;
+        color: white;
+    }
+    
+    .thumbnail-caption-small{
+        margin: 0 0 1rem 0;
+        padding: 1rem 1rem 1px 1rem;
+        background-color: #222222;
+        font-size: 1.1rem;
+        color: white;
+    }    
+
+}
+
+@media only screen and (min-width:1200px){
+
+    .thumbnail-caption{
+        margin: 0 0 1rem 0;
+        padding: 1rem 1rem 1px 1rem;
+        background-color: #222222;
+        font-size: 1.5rem;
+        color: white;
+      }
+    
+    .thumbnail-caption-big{
+        margin: 0 0 1rem 0;
+        padding: 1rem 1rem 1px 1rem;
+        background-color: #222222;
+        font-size: 1.75rem;
+        color: white;
+    }
+    
+    .thumbnail-caption-small{
+        margin: 0 0 1rem 0;
+        padding: 1rem 1rem 1px 1rem;
+        background-color: #222222;
+        font-size: 1.2rem;
+        color: white;
+    }    
+
+    span.title{
+        font-size: 3rem;
+    }
+
+}
+

@@ -1,0 +1,27 @@
+.bg-custom{
+    background-color: #373737;
+  }
+  
+  @media (min-width: 992px) {
+    .navbar-brand.abs
+        {
+            position: absolute;
+            width: 100%;
+            left: 0;
+            text-align: center;
+        }
+    }
+    
+
+.flex-container{
+    
+    display: flex;
+    width: 86%;
+    
+}
+
+
+
+
+
+
